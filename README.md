@@ -6,5 +6,5 @@ assignment1-TeraWithTheByte created by GitHub Classroom
 
 Student ID: 307924530<br>
 UserName: TeraWithTheByte<br>
-Student Name: Lee Barak<br>
+Student Name: Lee Joe Barak<br>
 URL to website:  https://web-development-environments-2021.github.io/307924530/
